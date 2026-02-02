@@ -9,7 +9,7 @@ import { Suspense } from "react";
 
 export const metadata: Metadata = {
   title: "Dracin - Streaming Drama Pendek",
-  description: "Nonton drama pendek gratis dan tanpa iklan di SekaiDrama.",
+  description: "Nonton drama pendek gratis dan tanpa iklan di Dracin.",
 };
 
 export default function RootLayout({

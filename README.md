@@ -1,11 +1,11 @@
-# SekaiDrama
+# Dracin
 
-[![License](https://img.shields.io/github/license/Sansekai/SekaiDrama)](https://github.com/Sansekai/SekaiDrama/blob/main/LICENSE)
-[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Sansekai/SekaiDrama)
+[![License](https://img.shields.io/github/license/Sansekai/Dracin)](https://github.com/Sansekai/Dracin/blob/main/LICENSE)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Sansekai/Dracin)
 
 ![Preview](public/preview.png)
 
-SekaiDrama adalah platform streaming drama pendek (vertical drama) modern yang menampilkan konten dari bebebrapa platform populer. Dibangun dengan teknologi web terkini untuk performa maksimal dan pengalaman pengguna yang premium.
+Dracin adalah platform streaming drama pendek (vertical drama) modern yang menampilkan konten dari bebebrapa platform populer. Dibangun dengan teknologi web terkini untuk performa maksimal dan pengalaman pengguna yang premium.
 
 ## Persyaratan Sistem
 Sebelum memulai, pastikan komputer Anda sudah terinstall:
@@ -20,11 +20,11 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini di komputer Anda:
 1.  Buka terminal (Command Prompt/PowerShell).
 2.  Clone repository ini ke komputer Anda:
     ```bash
-    git clone https://github.com/Sansekai/SekaiDrama.git
+    git clone https://github.com/Sansekai/Dracin.git
     ```
 3.  Masuk ke folder project:
     ```bash
-    cd SekaiDrama
+    cd Dracin
     ```
 
 ### 2. Install Dependencies

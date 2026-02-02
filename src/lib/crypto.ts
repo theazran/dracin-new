@@ -1,6 +1,6 @@
 import CryptoJS from "crypto-js";
 
-const SECRET_KEY = process.env.NEXT_PUBLIC_CRYPTO_SECRET || "Sansekai-SekaiDrama";
+const SECRET_KEY = process.env.NEXT_PUBLIC_CRYPTO_SECRET || "Sansekai-Dracin";
 
 export function encryptData(data: any): string {
   // If data is an object/array, stringify it first
@@ -12,9 +12,9 @@ export function decryptData<T>(ciphertext: string): T {
   try {
     const bytes = CryptoJS.AES.decrypt(ciphertext, SECRET_KEY);
     const decryptedString = bytes.toString(CryptoJS.enc.Utf8);
-    
+
     if (!decryptedString) {
-        throw new Error("Decryption failed: Empty result");
+      throw new Error("Decryption failed: Empty result");
     }
 
     return JSON.parse(decryptedString);

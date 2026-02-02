@@ -31,7 +31,7 @@ Saya juga telah mengaktifkan rate limiting dengan mengubah `src/proxy.ts` menjad
    | Key | Value (Contoh) | Deskripsi |
    |-----|---------------|-----------|
    | `NEXT_PUBLIC_API_BASE_URL` | `https://api.sansekai.my.id/api` | URL backend API yang digunakan. |
-   | `NEXT_PUBLIC_CRYPTO_SECRET` | `Sansekai-SekaiDrama` | Kunci rahasia untuk enkripsi/dekripsi data. |
+   | `NEXT_PUBLIC_CRYPTO_SECRET` | `Sansekai-Dracin` | Kunci rahasia untuk enkripsi/dekripsi data. |
 
 5. **Klik "Deploy"**.
 
